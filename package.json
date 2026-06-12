@@ -3,6 +3,10 @@
   "displayName": "genero-nav",
   "description": "",
   "version": "0.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonah-d6/genero-nav.git"
+  },
   "engines": {
     "vscode": "^1.108.0"
   },
